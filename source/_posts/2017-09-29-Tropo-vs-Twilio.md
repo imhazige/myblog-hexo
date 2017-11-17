@@ -14,6 +14,8 @@ tags:
 ---
 At year 2009 I start using Tropo to build a voice channel of a Expert System, the system was designed with a complex rule engine, the interaction is asked to be do in a asynchronous way - the backend rule engine is able to interrupt the running call session with event. This make us having to choose Tropo, which support the asynchronous event. Of course, this product is using Java.
 
+<!-- more -->
+
 In the next many years, I had using Twilio to build many small projects for many clients, all were using PHP.
 
 At year 2016, I participanted in building a cloud-based product, which including voice and sms channel too, we choose Tropo, this product is running well. 
