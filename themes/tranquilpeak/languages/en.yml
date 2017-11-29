@@ -2,6 +2,7 @@
 date_format: "MMM DD, YYYY"
 
 global:
+    demoshow: "Demo"
     home: "Home"
     categories: "Categories"
     category: "Category"

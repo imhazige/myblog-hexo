@@ -101,3 +101,6 @@ algolia:
     - slug
     - tags
     - title
+
+# exclude:
+#   - show    
